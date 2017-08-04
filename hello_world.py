@@ -1,4 +1,5 @@
-pirntf("Hello,world!")
+print("Hello,world!")
 
-printf("This is a git branch")
+print("This is a git branch")
 
+print("helo")
